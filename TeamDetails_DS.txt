@@ -1,0 +1,11 @@
+Fill in the details (should be same as those while registering for CNI Hackathon):
+
+Team Name:TEAM ELITE
+
+Team Member 1: (Assumed to be the team lead, by default)
+Name: KOWSALYA SRI GANESH
+Email ID:kowsalya.s2021@kgkite.ac.in 
+
+Team Member 2:
+Name: MANOJ KUMAR.K
+Email ID: manojkumar.k2021@kgkite.ac.in
